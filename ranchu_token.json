@@ -1,0 +1,15 @@
+{
+  "chainId": 101,
+  "address": "6axy1zwsYTxHSSVAEsEgDceMPRMMfiJeSPpn3RzecLnR",
+  "symbol": "RANCHU",
+  "name": "RanChu Fish",
+  "decimals": 9,
+  "logoURI": "https://cdn.jsdelivr.net/gh/canocmit/token-list/assets/logo.png",
+  "tags": [
+    "reward",
+    "fish-token"
+  ],
+  "extensions": {
+    "description": "RanChu tokens are used as reward points for customers. Customers use RanChu tokens to exchange for the first selected RanChu fish from the school before selling."
+  }
+}
