@@ -4,7 +4,7 @@
   "symbol": "RANCHU",
   "name": "RanChu Fish",
   "decimals": 9,
-  "logoURI": "https://cdn.jsdelivr.net/gh/canocmit/token-list/assets/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/canocmit/token-list/main/assets/logo.png",
   "tags": [
     "reward",
     "fish-token"
